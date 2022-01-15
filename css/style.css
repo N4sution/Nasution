@@ -1,0 +1,15 @@
+hr{
+	width:50px;
+	border-top:3px solid salmon;
+}
+.About .row p {
+	background:green;
+}
+.portfolio {
+	background-color:#eee;
+}
+.jumbotron div img{
+  width:100px;
+  height: 100px;
+  background-size: cover;
+}
